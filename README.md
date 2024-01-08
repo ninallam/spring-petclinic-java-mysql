@@ -15,6 +15,9 @@ The following prerequisites are required to use this application. Please ensure 
 * [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd)
 * Java 17 or later
 
+ > [!NOTE]
+   > For Spring applications, we recommend using Azure Spring Apps. However, you can still use Azure App Service as a destination.
+
 ## Quickstart
 
 The fastest way for you to get this application up and running on Azure is to use the `azd up` command. This single command will create
