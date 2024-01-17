@@ -1,3 +1,25 @@
+---
+page_type: sample
+languages:
+- azdeveloper
+- java
+- css
+- bicep
+- html
+- scss
+products:
+- azure
+- azure-application-insights
+- azure-app-service
+- azure-sql-database
+- azure-key-vault
+- azure-monitor
+urlFragment: spring-petclinic-java-mysql
+name: Spring PetClinic Sample Application using a full set of Azure solutions (Java)
+description: This Spring PetClinic sample application using a set of Azure solutions with Java. Azure App Service for app hosting, Azure Database for MySQL for storage, Azure Key Vault for securing secret and Azure Application Insights for monitoring and logging.
+---
+<!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
+
 # [Spring PetClinic Sample Application](https://github.com/spring-projects/spring-petclinic) using a full set of Azure solutions
 
 * [Azure AppService](https://azure.microsoft.com/en-us/products/app-service/) for app hosting,
