@@ -3,13 +3,10 @@ page_type: sample
 languages:
 - azdeveloper
 - java
-- css
 - bicep
 - html
-- scss
 products:
 - azure
-- azure-application-insights
 - azure-app-service
 - azure-sql-database
 - azure-key-vault
